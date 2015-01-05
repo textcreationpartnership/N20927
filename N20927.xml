@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:027484_0000_0FD45477C1E67728"/>
-            <pb facs="tcp:027484_0001_0FD4547944E21770"/>
+            <pb facs="unknown:027484_0000_0FD45477C1E67728"/>
+            <pb facs="unknown:027484_0001_0FD4547944E21770"/>
             <p>JOURNAL OF THE PROCEEDINGS OF THE SENATE OF THE Commonwealth of Pennſylvania, WHEN SITTING FOR THE PURPOSE OF TRYING AN IMPEACHMENT. COMMENCING ON WEDNESDAY, THE EIGHTH OF JANUARY, ONE THOUSAND SEVEN HUNDRED AND NINETY-FOUR.</p>
             <p>
                <hi>PHILADELPHIA: PRINTED BY ZACHARIAH POULSON, JUNIOR,</hi> No. 80, CHESNUT-STREET.</p>
@@ -121,7 +121,7 @@
       </front>
       <body>
          <div type="journal_of_proceedings">
-            <pb facs="tcp:027484_0002_0FD4547AE2A97190"/>
+            <pb facs="unknown:027484_0002_0FD4547AE2A97190"/>
             <head>JOURNAL OF THE PROCEEDINGS OF THE SENATE OF THE Commonwealth of Pennſylvania, WHEN SITTING FOR THE PURPOSE OF TRYING AN IMPEACHMENT.</head>
             <div type="days_proceedings">
                <head>Wedneſday, January eighth, 1794.</head>
@@ -183,7 +183,7 @@
                      </row>
                      <row>
                         <cell>
-                           <pb n="4" facs="tcp:027484_0003_0FD4547C1FF1FA80"/>10 Thomas Jenks,</cell>
+                           <pb n="4" facs="unknown:027484_0003_0FD4547C1FF1FA80"/>10 Thomas Jenks,</cell>
                         <cell>
                            <hi>affirmed;</hi>
                         </cell>
@@ -240,7 +240,7 @@
                      <hi>"Article</hi> I. THAT, by an act of the General Aſſembly of this common<g ref="char:EOLhyphen"/>wealth, paſſed on the twenty-ſeventh day of March, in the year 1789, entitled, "An act to repeal ſo much of any act or acts of Aſſembly of this commonwealth, as directs the payment of the New-Loan debt, or the intereſt thereof, beyond the firſt day of April next, and for other purpoſes therein mentioned," it was, among other things, declared and enacted, That ſo much of every act or acts of General Aſſembly as directed or ſecured the payment of the principal ſum or ſums mentioned in certain certificates, commonly called New-Loan certificates (which had been iſſued in purſuance of a preceding act, paſſed on the firſt day of March, 1786) or the intereſt thereof, beyond the term of four years, ſhould be thenceforth repealed and made null and void; thereby rendering the ſaid certificates no longer a debt, or evidence of a debt, due and owing from the <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Pennſylvania: But, nevertheleſs, John Nicholſon, the Comptroller General of this commonwealth, to promote and procure his own emolument, under the colour of his office, pretending as well to facilitate the execution of certain acts of Congreſs hereinafter mentioned, touching a loan propoſed by the United States to the creditors of the reſpective ſtates, as to carry into effect a certain act of the General Aſſembly of this commonwealth, herein<g ref="char:EOLhyphen"/>after alſo mentioned, touching the redemption of certain debts due and owing from the ſtate of Pennſylvania, did, at various times, after the paſſing of the ſaid act of the ſixth day of March, 1789, <hi>to wit,</hi> between the tenth day of April, 1792, and the firſt day of Auguſt, 1792, recognize, certify,
-<pb n="5" facs="tcp:027484_0004_0FD454817A1CDC90"/>
+<pb n="5" facs="unknown:027484_0004_0FD454817A1CDC90"/>
 and declare the ſaid certificates, commonly called New-Loan certificates, to be ſubſcribable, as debts due and owing by the ſtate of Pennſylvania, to a certain loan opened and propoſed, on the part of the United States, to the creditors of the reſpective ſtates, in and by two ſeveral acts of Congreſs, paſſed, reſpectively, on the fourth day of Auguſt, 1790, and on the eighth day of May, 1792; thereby committing a high miſdemeanor, contrary to the intent and meaning of the ſaid law, paſſed on the twenty-ſeventh day of March, 1789, in violation of the confidence repoſed in him as a public officer, and manifeſtly, as the ſaid John Nicholſon well know, to the riſque and injury of the commonwealth.</p>
                   <p>
                      <hi>"Article</hi> II. That, by an act of the General Aſſembly, entitled, "An act to provide for paying and redeeming certain public debts, and for defraying the expences of government," paſſed on the tenth day of April, 1792, pro<g ref="char:EOLhyphen"/>viſion was made, among other things, for redeeming certain debts then due and owing by this commonwealth; in the ſpecification of which debts the ſaid certificates, commonly called New-Loan certificates, were not included, nor could they, in any wiſe, be contemplated to be objects of the ſaid redemp<g ref="char:EOLhyphen"/>tion; but, nevertheleſs, the ſaid John Nicholſon, the Comptroller General of this commonwealth, with a view to promote and procure his own emolu<g ref="char:EOLhyphen"/>ment, and under colour of his office, did recognize, certify, and declare the ſaid certificates, commonly called New-Loan certificate?, to be redeemable; thereby committing a high miſdemeanor, contrary to the terms, intent, and meaning of the ſaid act of the General Aſſembly, paſſed on the tenth day of April, 1792, in violation of the confidence repoſed in him as a public officer, and to the manifeſt loſs and injury of this commonwealth.</p>
@@ -248,7 +248,7 @@ and declare the ſaid certificates, commonly called New-Loan certificates, to be
                      <hi>"Article</hi> III. That the ſaid John Nicholſon, the Comptroller General of this commonwealth, with intent to promote and procure his own emolu<g ref="char:EOLhyphen"/>ment, and in order to avoid diſcovery and detection in ſo doing, until ſuch emolument was actually reduced into his own poſſeſſion, did not conſult the Regiſter General touching the above tranſactions, nor communicate the ſame to the Governor; nor did he diſcriminate, in the certification entered upon the face of the abſtracts of debts reſpectively, by which certification he re<g ref="char:EOLhyphen"/>cognized and declared the ſaid certificates, commonly called New-Loan cer<g ref="char:EOLhyphen"/>tificates, to be ſubſcribable to the ſaid loan opened and propoſed on the part of the United States, to the creditors of the reſpective ſtates, nor in the cer<g ref="char:EOLhyphen"/>tification by which he recognized and declared the ſame to be redeemable under the ſaid act of the tenth day of April, 1792, between the ſaid certifi<g ref="char:EOLhyphen"/>cates, commonly called New-Loan certificates, and other certificates which were properly debts, or evidences of debts, due and owing from this ſtate, and as ſuch might lawfully be ſubſcribed to the ſaid loan, and redeemed by virtue of the ſaid act of the tenth of April, 1792: in which conduct the ſaid Comptroller General committed a high miſdemeanor, in as much as, thereby, all the checks of office, provided by law, were deſtroyed, the other officers of government were deluded into error, and the commonwealth ſuffered manifeſt loſs and injury.</p>
                   <p>
                      <hi>"Article</hi> IV. That, by the conſtitution of this commonwealth, it is de<g ref="char:EOLhyphen"/>clared, that no money ſhall be drawn from the treaſury, but in conſequence of a previous appropriation by law; yet the ſaid John Nicholſon, with a view to promote and procure his own emolument, did, under colour of his office, and in the above mentioned deluſive manner, certify to the Governor,
-<pb n="6" facs="tcp:027484_0005_0FD45482B94DEC00"/>
+<pb n="6" facs="unknown:027484_0005_0FD45482B94DEC00"/>
 that certain debts, including the ſaid certificates, commonly called New-Loan certificates, but not naming or deſcribing the ſame, were redeemable and payable, when no fund was, by law, provided for paying the ſame; thereby committing a high miſdemeanor, miſleading the other officers of government, and cauſing money, without a previous appropriation, to be drawn from the treaſury in violation of the conſtitution.</p>
                   <p>
                      <hi>"Article</hi> V. That the ſaid John Nicholſon, Comptroller General of the commonwealth, with intent to promote and procure his own emolument, and having formed a plan to cauſe, under colour of his office, the ſaid certificates, commonly called New-Loan certificates, to be redeemed, did, by himſelf or his agents, between the tenth day of April and the firſt day of Auguſt, 1792, purchaſe a very great amount of the ſaid certificates, as well from perſons who came to exchange the ſame at his office, in purſuance of a pro<g ref="char:EOLhyphen"/>viſion for that purpoſe contained in the ſaid act of the twenty-ſeventh of March, 1789, as from others; which certificates, ſo purchaſed, were after<g ref="char:EOLhyphen"/>wards actually redeemed and paid for at the treaſury; thereby committing a high miſdemeanor, rendering his official truſt ſubſervient to the purpoſes of ſpeculation, and injuring the reputation, as well as the intereſt, of the com<g ref="char:EOLhyphen"/>monwealth whoſe officer he was.</p>
@@ -258,7 +258,7 @@ that certain debts, including the ſaid certificates, commonly called New-Loan c
                   <head>"Additional articles of impeachment againſt John Nicholſon, Comptroller General.</head>
                   <p>
                      <hi>"Article</hi> VI. THAT the ſaid John Nicholſon, Comptroller General of this commonwealth, being intruſted by the aforeſaid act, entitled, "An act to repeal ſo much of any act or acts of Aſſembly of this commonwealth, as directs the payment of the New-Loan debt, or the inte<g ref="char:EOLhyphen"/>reſt thereof, beyond the firſt day of April next, and for other purpoſes therein mentioned," paſſed the twenty-ſeventh of March, 1789, to receive the ſaid certificates, commonly called New-Loan certificates, from the per<g ref="char:EOLhyphen"/>ſons holding the ſame, and to re-deliver, to ſuch perſons, the certificates of debts, due by the United States, loaned to this ſtate, did, in the execution of the truſt ſo in him repoſed, receive, from ſundry perſons, certain certifi<g ref="char:EOLhyphen"/>cates, commonly called New-Loan certificates, to be exchanged as aforeſaid; whereby, and by virtue of the ſaid act of Aſſembly, the ſaid certificates became the property of this commonwealth, and ought to have been deli<g ref="char:EOLhyphen"/>vered, by him, to the Regiſter General, for the purpoſe of being cancelled
-<pb n="7" facs="tcp:027484_0006_0FD4548464218EB8"/>
+<pb n="7" facs="unknown:027484_0006_0FD4548464218EB8"/>
 and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref="char:EOLhyphen"/>ral of this commonwealth, well knowing the ſame to be the property of the commonwealth, but contriving and intending to convert certain of the ſame certificates to his own uſe and emolument, did, between the tenth day of April, 1792, and the firſt day of Auguſt, 1792, unlawfully, and con<g ref="char:EOLhyphen"/>trary to the duties of his office and the truſt ſo as aforeſaid in him repoſed, ſubſcribe the laſt mentioned certificates to the loan aforeſaid, propoſed by the United States to the creditors of this ſtate, in his own name and for his own uſe and benefit; whereby the ſaid John Nicholſon hath committed a high miſdemeanor, in the violation of the truſt and confidence by this commonwealth in him repoſed, and manifeſtly tending to the injury and loſs of the ſaid commonwealth.</p>
                   <p>
                      <hi>"Article</hi> VII. That the ſaid John Nicholſon, Comptroller General of this commonwealth, being intruſted, by the aforeſaid act, entitled, "An act to repeal ſo much of any act or acts of Aſſembly of this commonwealth, as directs the payment of the New-Loan debt, or the intereſt thereof, beyond the firſt day of April next, and for other purpoſes therein mentioned," paſſed the twenty-ſeventh day of March, 1789, to receive the ſaid certificates, com<g ref="char:EOLhyphen"/>monly called New-Loan certificates, from the perſons holding the ſame, and to re-deliver to ſuch perſons the certificates of debts due by the United States, did, in the execution of the truſt ſo in him repoſed, exchange, for ſundry perſons, certain certificates, commonly called New-Loan certificates, by receiving, of the ſaid perſons, the ſaid New-Loan certificates, and delivering, in return thereof, an equal amount in the certificates of debts due by the United States; whereby, and by virtue of the act of Aſſembly in ſuch caſe made and provided, the ſaid New-Loan certificates became the property of this commonwealth, and ought to have been delivered to the Regiſter General to be cancelled and preſerved: yet the ſaid John Nicholſon, then being Comp<g ref="char:EOLhyphen"/>troller General of this commonwealth, well knowing the premiſes, but con<g ref="char:EOLhyphen"/>triving and unlawfully intending to convert certain of the ſame certificates to his own uſe and emolument, and by ſubſcribing the ſame to the loan aforeſaid, by the United States propoſed, to procure the amount thereof to be paid to him by this commonwealth, did, between the firſt day of April, 1792, and the firſt day of Auguſt, 1792, unlawfully, and contrary to the duties of his ſaid office and the truſt ſo as aforeſaid repoſed in him, ſubſcribe the ſaid laſt mentioned certificates, commonly called New-Loan certificates, to the ſaid loan propoſed by the United States, in his own name and for his own uſe and benefit; and did afterwards apply for, and obtain, the amount thereof to be paid by the Treaſurer of this commonwealth to his uſe; whereby the ſaid John Nicholſon hath committed a high miſdemeanor, hath violated the truſt and confidence ſo as aforeſaid in him repoſed, and hath occaſioned great loſs and detriment to this commonwealth."</p>
@@ -269,7 +269,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                   <p>"On motion,</p>
                   <p>"Reſolved, That Meſſrs. Morgan, Swanwick, Evans, Gallatin, and Johnſton be a committee to offer to the Senate an amendment of the firſt article of the impeachment of John Nicholſon, Comptroller General of the commonwealth, by ſubſtituting the words <hi>twenty-ſeventh</hi> in the place of the word "ſixth," in the thirty-ſecond line, and to requeſt the Senate to direct the ſame to be made."</p>
                   <p>
-                     <pb n="8" facs="tcp:027484_0007_0FD45485E59B55A8"/>And <gap reason="illegible: indecipherable" extent="1 word">
+                     <pb n="8" facs="unknown:027484_0007_0FD45485E59B55A8"/>And <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> upon,</p>
                   <p>The Speaker of the Senate demanded of the ſaid John Nicholſon—"What have you <gap reason="illegible: indecipherable" extent="1 word">
@@ -303,7 +303,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                </div>
             </div>
             <div type="days_proceedings">
-               <pb n="9" facs="tcp:027484_0008_0FD4548787E1AF58"/>
+               <pb n="9" facs="unknown:027484_0008_0FD4548787E1AF58"/>
                <head>Wedneſday, February nineteenth, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>William Hepburn, in the preſence of James Biddle, the Preſident of the Court of Common Pleas of the city and county of Philadelphia, &amp;c. did ſwear "well and truly to try, and a true judgment give, according to law and evidence, between the commonwealth of Pennſylvania and John Nichol<g ref="char:EOLhyphen"/>ſon, Comptroller General of the ſaid commonwealth, on the articles of accu<g ref="char:EOLhyphen"/>ſation and impeachment exhibited againſt him the ſaid John Nicholſon, and now depending before the Senate."</p>
@@ -330,7 +330,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Ordered, That the further proceeding of the Senate, ſitting for the pur<g ref="char:EOLhyphen"/>poſe of trying impeachments, at this time, be poſtponed, to the intent that the Senate reſume the conſideration of legiſlative buſineſs.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="10" facs="tcp:027484_0009_0FD45488F2170750"/>
+               <pb n="10" facs="unknown:027484_0009_0FD45488F2170750"/>
                <head>Wedneſday, February twenty-ſixth, 1794.</head>
                <p>The Senate ſitting for the trial of impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -360,7 +360,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned the further hearing of the cauſe until eleven o'clock to-morrow morning.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="11" facs="tcp:027484_0010_0FD4548B20A1CE38"/>
+               <pb n="11" facs="unknown:027484_0010_0FD4548B20A1CE38"/>
                <head>Friday, February twenty-eighth, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -385,7 +385,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned the further hearing of the cauſe until ten o'clock to morrow morning.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="12" facs="tcp:027484_0011_0FD3DA6AF0996030"/>
+               <pb n="12" facs="unknown:027484_0011_0FD3DA6AF0996030"/>
                <head>Wedneſday, March fifth, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -410,7 +410,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned the further hearing of the cauſe until ten o'clock to-morrow morning.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="13" facs="tcp:027484_0012_0FD45491E4FBED10"/>
+               <pb n="13" facs="unknown:027484_0012_0FD45491E4FBED10"/>
                <head>Saturday, March eighth, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -435,7 +435,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned the further hearing of the cauſe until ten o'clock to-morrow morning.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="14" facs="tcp:027484_0013_0FD454936472EAD8"/>
+               <pb n="14" facs="unknown:027484_0013_0FD454936472EAD8"/>
                <head>Wedneſday, March twelfth, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -462,7 +462,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned the further hearing of the cauſe until ten o'clock to-morrow morning.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="15" facs="tcp:027484_0014_0FD454972B05FA20"/>
+               <pb n="15" facs="unknown:027484_0014_0FD454972B05FA20"/>
                <head>Saturday, March fifteenth, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -487,7 +487,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned the further hearing of the cauſe until ten o'clock to-morrow morning.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="16" facs="tcp:027484_0015_0FD454995F36EFB0"/>
+               <pb n="16" facs="unknown:027484_0015_0FD454995F36EFB0"/>
                <head>Wedneſday, March nineteenth, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -512,7 +512,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned the further hearing of the cauſe until ten o'clock to-morrow morning.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="17" facs="tcp:027484_0016_0FD4549C84CB2088"/>
+               <pb n="17" facs="unknown:027484_0016_0FD4549C84CB2088"/>
                <head>Saturday, March twenty-ſecond, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
@@ -537,7 +537,7 @@ and preſerved; yet the ſaid John Nicholſon, then being Comptroller Gene<g ref
                <p>Adjourned during pleaſure.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="18" facs="tcp:027484_0017_0FD4549DE37DEC18"/>
+               <pb n="18" facs="unknown:027484_0017_0FD4549DE37DEC18"/>
                <head>Friday, April eleventh, 1794.</head>
                <p>The Senate ſitting for the purpoſe of trying impeachments—</p>
                <p>John Nicholſon, Comptroller General of the commonwealth of Pennſyl<g ref="char:EOLhyphen"/>vania, at the bar.</p>
